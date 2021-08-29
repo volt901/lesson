@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-// кино 
+
 
 //MARK: - Fruits data
 

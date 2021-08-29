@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-// проверка
+
 
 struct FruitCardView: View {
     // MARK: - PROPERTIES
